@@ -1,7 +1,3 @@
-<!--
- * @Author: WALT
- * @Date: 2026-01-24 22:22:48
--->
 <!-- 1. 文字部分：最大、居中、动态（独立SVG以便GitHub正确渲染动画） -->
 <div align="center">
 	<img src="https://raw.githubusercontent.com/BytePeace/BytePeace/main/animated-title.svg" width="100%" alt="I wish for peace and happiness for the people." />
@@ -28,4 +24,3 @@
 	<br/>
 	<img src="https://komarev.com/ghpvc/?username=BytePeace&style=flat-square&color=2E8B57" alt="Views" />
 </div>
-1
